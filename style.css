@@ -4,15 +4,10 @@
     margin: 0;
     box-sizing: border-box;
 }
-
 .container{
     display: flex;
     align-items: center;
     justify-content: center;
-   
-
-
- 
     
 }
 .incontainer{
